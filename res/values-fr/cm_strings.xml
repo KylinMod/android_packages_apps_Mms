@@ -87,6 +87,7 @@
   <string name="alert_dialog_yes">Oui</string>
   <string name="alert_dialog_no">Non</string>
   <string name="menu_as_unread">Marquer comme non lu</string>
+  <string name="menu_all_as_unread">Marquer tout comme non lus</string>
   <string name="confirm_mark_unread_dialog_title">Marquer comme non lu ?</string>
   <string name="confirm_mark_unread_conversation">La conversation sera marquée comme non lue.</string>
   <string name="confirm_mark_unread_all_conversations">Toutes les conversations seront marquées comme non lues.</string>
@@ -118,4 +119,6 @@
   <string name="pref_summary_enable_emoticons">Substituer les émoticônes avec des équivalents graphiques</string>
   <string name="normal_show">Mode d\'affichage normal</string>
   <string name="cannot_play">Ne peut pas présenter le diaporama.</string>
+  <string name="menu_conversation_options">Options de conversation</string>
+  <string name="pref_title_reset_convopt_to_default">Restaurer les valeurs par défaut</string>
 </resources>

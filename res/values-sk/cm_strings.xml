@@ -87,6 +87,7 @@
   <string name="alert_dialog_yes">Áno</string>
   <string name="alert_dialog_no">Nie</string>
   <string name="menu_as_unread">Označiť ako neprečítané</string>
+  <string name="menu_all_as_unread">Označiť všetko ako neprečítané</string>
   <string name="confirm_mark_unread_dialog_title">Označiť ako neprečítané?</string>
   <string name="confirm_mark_unread_conversation">Konverzácia bude označená ako neprečítaná.</string>
   <string name="confirm_mark_unread_all_conversations">Všetky vlákna budú označené ako neprečítané.</string>
@@ -118,4 +119,7 @@
   <string name="pref_summary_enable_emoticons">Nahradiť textové emotikony s grafickými ekvivalentami</string>
   <string name="normal_show">Normálny režim zobrazenia</string>
   <string name="cannot_play">Nie je možné zobraziť prezentáciu.</string>
+  <string name="menu_conversation_options">Možnosti konverzácie</string>
+  <string name="pref_title_reset_convopt_to_default">Obnoviť na predvolené</string>
+  <string name="pref_summary_reset_convopt_to_default">Obnoviť nastavenie konverzácie na úroveň nastavenia aplikácie</string>
 </resources>

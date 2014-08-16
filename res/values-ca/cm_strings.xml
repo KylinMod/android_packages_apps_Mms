@@ -87,6 +87,7 @@
   <string name="alert_dialog_yes">Si</string>
   <string name="alert_dialog_no">No</string>
   <string name="menu_as_unread">Marca\'l com a sense llegir</string>
+  <string name="menu_all_as_unread">Marcal\'s tots com sense llegir</string>
   <string name="confirm_mark_unread_dialog_title">Marcar com a sense llegir?</string>
   <string name="confirm_mark_unread_conversation">La conversa es marcarà com a no llegida.</string>
   <string name="confirm_mark_unread_all_conversations">Tots els fils seran marcats com a no llegits.</string>
@@ -118,4 +119,7 @@
   <string name="pref_summary_enable_emoticons">Substitueix les emoticones de text amb els seus equivalents gràfics</string>
   <string name="normal_show">Mostra el mode normal</string>
   <string name="cannot_play">No es pot mostrar la projecció de diapositives.</string>
+  <string name="menu_conversation_options">Opcions de conversa</string>
+  <string name="pref_title_reset_convopt_to_default">Restableix als valors per defecte</string>
+  <string name="pref_summary_reset_convopt_to_default">Restableix la configuració de conversa a la configuració a nivell d\'aplicació</string>
 </resources>
